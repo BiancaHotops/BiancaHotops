@@ -1,4 +1,4 @@
-# Oláa, eu sou Bianca
+# Olá, me chamo Bianca
 ### Hello World 👋
 > 🔭 Smart Automation - Bosch Carreiras. <br>
 > 📚 Cursando Desenvolvimento de Sistema - Senai Roberto Mange. <br>
