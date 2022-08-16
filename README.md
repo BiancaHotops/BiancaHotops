@@ -1,6 +1,6 @@
 ## Olá, meu nome é Bianca !
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
 
 ### Bem vindo ao meu perfil GitHub 👋
 > 🔭 Smart Automation - Bosch Carreiras. <br>
