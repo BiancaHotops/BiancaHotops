@@ -5,7 +5,7 @@
 
 > 🔭 Smart Automation - Bosch Carreiras. <br>
 > 📚 Studying Systems Development - Senai Roberto Mange. <br>
-> 🎓 Computer Technician integrated with high school - Etec Monte Mor 2020. <br>
+> 🎓 Computer Technician - ETEC 2020. <br>
 
 
 ### Languages
