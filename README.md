@@ -1,7 +1,7 @@
 ## Hello, my name is Bianca !
 ### Welcome to my GitHub profile  👋
 
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
+<img align="right" alt="Coding" width="350" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
 
 > 🔭 Smart Automation - Bosch Carreiras. <br>
 > 📚 Studying Systems Development - Senai Roberto Mange. <br>
