@@ -15,7 +15,7 @@
 
 <div>
 <a href="https://github.com/https://github.com/BiancaHotops">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaHotops&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaHotops&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ### About Me
