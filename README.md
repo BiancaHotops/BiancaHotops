@@ -1,14 +1,15 @@
 <p align="center">
-<img src=https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=+Hello,+my+name+is+Bianca+!+>
+<img src=https://readme-typing-svg.herokuapp.com?color=6a9bec&lines=+Hello,+my+name+is+Bianca+!+>
 </p>
 
-## 
+##
+
+### Welcome to my Github profile 👋
 <img align="right" alt="Coding" width="350" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
 
 > 🔭 Smart Automation - Bosch Carreiras. <br>
 > 📚 Studying Systems Development - Senai Roberto Mange. <br>
 > 🎓 Computer Technician - ETEC 2020. <br>
-
 
 ### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/><img
