@@ -1,9 +1,8 @@
-<p align="center" margin="10px">
- <img src=https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=+Hello,+my+name+is+Bianca+!+
+<p align="center">
+<img src=https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=+Hello,+my+name+is+Bianca+!+>
 </p>
 
-Welcome to my GitHub profile  👋
-
+## 
 <img align="right" alt="Coding" width="350" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
 
 > 🔭 Smart Automation - Bosch Carreiras. <br>
@@ -17,7 +16,6 @@ height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c
 height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
           
           
-
 <div>
 <a href="https://github.com/https://github.com/BiancaHotops">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaHotops&layout=compact&langs_count=7&theme=tokyonight"/>
