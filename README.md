@@ -6,8 +6,8 @@
 
 <img align="right" alt="Coding" width="350" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
 
-> 🔭 Smart Automation - Bosch Carreiras. <br>
-> 📚 Studying Systems Development - Senai Roberto Mange. <br>
+> 🔭 Smart Automation - Bosch Carreiras. <br> 
+> 🎓 Systems Development - Senai Roberto Mange 2023. <br>
 > 🎓 Computer Technician - ETEC 2020. <br>
 
 ### • Languages 
